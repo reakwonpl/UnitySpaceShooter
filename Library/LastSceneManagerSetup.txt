@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/_Scene/Pocz\u0105tek.unity"
+  isLoaded: 1
+  isActive: 1
